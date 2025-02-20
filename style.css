@@ -45,6 +45,9 @@ h1 {
 .clearButton {
     width: 8.52rem;
     height: 60px;
+    color: red;
+    font-weight: 600;
+    font-family: system-ui ,serif;
 }
 
 button {
